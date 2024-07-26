@@ -15,11 +15,11 @@ App in the development to make life easier to keep track of work and routine.
 [ ] Calendar <br>
 
 ## Current State 
-![Screenshot_20240726-143500](https://github.com/user-attachments/assets/1e3bb9e1-028e-4242-8a57-a1ece9d8d73b)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/shadowcatbird/Todo-Habit-App/blob/main/Screenshot_20240726-143500.png" width="200" height="400" />
+<br>
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) <br>
 
 ## 🚀 About Me
 
