@@ -35,7 +35,8 @@
         android:layout_alignParentEnd="true"
         android:layout_margin="32dp"
         android:backgroundTint="@android:color/holo_green_dark"
-        android:src="@drawable/ic_baseline_add"/>
+        android:src="@drawable/ic_baseline_add"
+        android:contentDescription="@string/add_task"/>
 
 
 

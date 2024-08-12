@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements DialogCloseListen
 
 
         setContentView(R.layout.activity_main);
-        getSupportActionBar().hide();
+        //getSupportActionBar().hide();
 
         db = new DatabaseHandler(this);
         db.openDatabase();
